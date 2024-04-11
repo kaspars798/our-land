@@ -2,7 +2,7 @@
 - Docker Desktop
 
 ## Get git project from repository
--?????????
+- https://github.com/kaspars798/our-land.git
 
 ## Install dependencies on docker
 docker run --rm \
